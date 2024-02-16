@@ -1,4 +1,4 @@
-### Olá! Sou Débora, moro em Brasília. Atualmente, estou cursando Ciência de Dados na Faculdade de Tecnologia e Inovação FAC SENAC, e também me especializando em Engenharia de Dados na Ada Tech, numa parceria com o Santander. Sinta-se bem-vindo(a) ao meu perfil do GitHub, onde compartilharei atividades desenvolvidas e projetos de análise de dados. 😉
+### Olá! Sou Débora, moro em Brasília. Atualmente, estou cursando Ciência de Dados na Faculdade de Tecnologia e Inovação FAC SENAC, e também me especializando em Engenharia de Dados na Ada Tech. Sinta-se bem-vindo(a) ao meu perfil do GitHub, onde compartilharei atividades desenvolvidas e projetos de análise de dados. 😉
 
 
 
