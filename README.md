@@ -29,8 +29,12 @@ Atualmente, estou no último semestre do curso de Ciência de Dados e sou embaix
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="ie10 logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deboratech/deboratech/output/snake.svg" alt="Snake animation" />
+
+###
