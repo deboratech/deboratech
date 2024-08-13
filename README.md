@@ -1,4 +1,4 @@
-<p align="left">Olá! Sou Débora, apaixonada por tecnologia com ênfase em dados e pelo poder que eles têm para nos trazer insights. Sou formada em Ciência de Dados e graduanda em Economia. Além disso, sou Embaixadora da Ada Tech, uma comunidade comprometida com a diversidade e inclusão no campo da tecnologia.  <br>
+<p align="left">Olá! Sou Débora, apaixonada por tecnologia com ênfase em dados e pelo poder que eles têm para nos trazer insights. Sou formada em Ciência de Dados e graduanda em Economia. Além disso, sou Embaixadora da Ada Tech, uma comunidade comprometida com a diversidade e inclusão no campo da tecnologia.  
   <br><br>Estou sempre em busca de oportunidades de aprendizado e colaboração. Se você estiver interessado(a) em conectar, colaborar ou discutir tecnologia e dados, ficarei feliz em trocar ideias. Vamos aprender e crescer juntos!</p>
 
 ###
