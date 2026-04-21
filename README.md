@@ -1,5 +1,4 @@
-<p align="left">Sou Débora, Analista de Dados na WPP Commerce, com atuação em BI e Marketing Analytics voltada a projetos de marketing digital e e-commerce, apoiando a tomada de decisões estratégicas.
-  
+<p align="left">Sou Débora, Analista de Dados na WPP Commerce, com atuação em BI e Marketing Analytics voltada a projetos de marketing digital e e-commerce, apoiando a tomada de decisões estratégicas. 
   <br><br>Estou sempre em busca de oportunidades de aprendizado e colaboração. Se você estiver interessado(a) em conectar, colaborar ou discutir tecnologia e dados, ficarei feliz em trocar ideias. Vamos aprender e crescer juntos!</p>
 
 ###
